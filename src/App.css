@@ -5,3 +5,6 @@
   .CodeMirror{
     border-radius: 0;
   }
+  .editor-row{
+      height: 100vh;
+  }
